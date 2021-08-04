@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# react testing library
+__snapshots__/
+
 # next.js
 /.next/
 /out/
