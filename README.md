@@ -1,4 +1,4 @@
-<h1 align="center">NextJS Gok Boilerplate</h1>
+<h1 align="center">NextJS Boilerplate</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=nextjs&message=framework&color=black&style=for-the-badge&logo=NEXTJS"/>
