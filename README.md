@@ -73,4 +73,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Gok - One Step Ahead - [Github](https://github.com/gok-dev) - **julio.sousa@gok.digital**
+Bruno Andrade - [Github](https://github.com/brunnoandrade/) - **brunnoandradi@gmail.com**
